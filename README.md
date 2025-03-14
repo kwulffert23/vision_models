@@ -1,6 +1,7 @@
 # vision_models
 
-Example notebook on how to deploy an OSS multimodal model using [Mlflow extensions](https://github.com/stikkireddy/mlflow-extensions) and several possible inference use cases:
+Example notebook on how to deploy an OSS multimodal model using [Mlflow extensions](https://github.com/stikkireddy/mlflow-extensions) and several possible inference use cases.
+More documentation on Mlflow extensions [here](https://stikkireddy.github.io/mlflow-extensions/getting-started/vision-models/).
 
 1. Prompt on an image 
  ![Satelite image of London at night](https://eoimages.gsfc.nasa.gov/images/imagerecords/87000/87551/iss045e032242_lrg.jpg) 
